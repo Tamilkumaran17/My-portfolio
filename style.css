@@ -38,7 +38,9 @@ nav{
    
 }
 nav ul{
+    /* border: 2px solid; */
     padding: 0;
+    margin-bottom:60px ;
     
 }
 .logo{
@@ -156,6 +158,7 @@ nav ul li a:hover::after{
 .tab-contents ul li span{
     color: #d82834;
     font-size: 14px;
+    font-weight: 600;
 }
 .tab-contents{ 
     display: none;
